@@ -13,7 +13,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: 'Campus360',
   description: '',
-  
+  icons: {
+    icon: '/assets/images/Screenshot 2024-04-01 054332.png'
+  }
 }
 
 export default function RootLayout({
